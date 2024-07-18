@@ -1,0 +1,1 @@
+alert("hi welcome to page")
